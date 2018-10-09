@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "Hossein Beigzadeh",
   "license": "ISC",
-  "homepage": "https://hosseinbeig.github.io/LoanCalculator"
+  "homepage": "https://hosseinbeig.github.io/LoanCalculator",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
